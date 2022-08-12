@@ -21,9 +21,9 @@ const Content = () => {
     console.log(count)
   }
 
-  // const handleClick3 = (event1) => {
-  //   console.log(event1.target.innerText)
-  // }
+  const handleClick3 = (event1) => {
+    console.log(event1.target.innerText)
+  }
  
   return (
     <main>
